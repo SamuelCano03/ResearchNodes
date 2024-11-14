@@ -2,6 +2,8 @@
 
 Curso: Complex Networks
 
+Docente: Carlos Montoya
+
 Tema: Research Nodes
 
 Integrantes:
